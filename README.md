@@ -7,7 +7,7 @@
  <a href="https://www.linkedin.com/in/gaurav-khater-882b97203">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
-  <a href="https://www.instagram.com/g.khater7/">
+  <a href="https://www.instagram.com/g.khater7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
