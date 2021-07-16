@@ -1,16 +1,23 @@
-### Hi there 👋
-
-<!--
-**theBatman07/theBatman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I am Gaurav Khater 👋
+<p align="center">
+  <a href="https://github.com/theBatman07?tab=followers">
+    <img src="https://img.shields.io/github/followers/theBatman07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  
+ <a href="https://www.linkedin.com/in/gaurav-khater-882b97203">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href="https://www.instagram.com/g.khater07/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=82403733606&text=Hi%2C%20how%20may%20I%20assist%20you%3F">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href="http://twitter.com/@GauravKhater">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+              
+</p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=theBatman07&show_icons=true&theme=tokyonight" /></p>
