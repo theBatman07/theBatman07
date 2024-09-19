@@ -1,7 +1,9 @@
 ### Hi there, I am Gaurav Khater 👋
 
-![](https://komarev.com/ghpvc/?username=theBatman07&text_color=D3D3D3&bg_color=0,000000,130F40&style=flat)
 <p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=theBatman07&style=for-the-badge">
+</a>
   <a href="https://github.com/theBatman07?tab=followers">
     <img src="https://img.shields.io/github/followers/theBatman07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
