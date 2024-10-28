@@ -1,9 +1,10 @@
 ### Hi there, I am Gaurav Khater 👋
 
 <p align="center">
-  <a>
+<!--   <a>
     <img src="https://komarev.com/ghpvc/?username=theBatman07&style=for-the-badge">
-</a>
+</a> -->
+   <img src="https://komarev.com/ghpvc/?username=theBatman07&style=for-the-badge">
   <a href="https://github.com/theBatman07?tab=followers">
     <img src="https://img.shields.io/github/followers/theBatman07?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
