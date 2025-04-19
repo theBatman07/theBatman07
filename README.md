@@ -1,5 +1,9 @@
-### Hi there, I am Gaurav Khater 👋
+# 👋 Hey there, I'm Gaurav Khater!
 
+🚀 Engineer | 🚀 Patent Holder |💡 Builder | 🤖 AI Explorer | 🌍 Hackathon Mentor and Winner <br>
+📍 Bangalore, India | 🔗 [Portfolio](https://gaurav-portfolio-mu.vercel.app/) | 🧠 [LinkedIn](https://www.linkedin.com/in/gaurav-khater-882b97203) | 💻 [GitHub](https://github.com/theBatman07)
+
+<br>
 <p align="center">
 <!--   <a>
     <img src="https://komarev.com/ghpvc/?username=theBatman07&style=for-the-badge">
@@ -25,4 +29,69 @@
   </a> -->
               
 </p>
-<!-- <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=theBatman07&show_icons=true&theme=tokyonight" /></p> -->
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+### 👨‍💻 About Me
+
+I'm a Software Development Engineer (SDE) who thrives on building real-world solutions, architecting backend systems, crafting AI agent workflows, and solving gnarly engineering puzzles. Whether it's processing geospatial data, integrating with LLMs, or designing powerful dashboards—I'm in my element when I'm building things that **matter**.
+
+Currently making waves at **Aereo** as an SDE, and previously drove product innovation as a **Founding Engineer Intern** at **Aerolift.AI**.
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🔧 Technologies & Tools
+
+- 💻 Languages: `Python` | `Java` | `C`
+- ⚙️ Frameworks: `Django` | `FastAPI` | `React.js`
+- 🌐 Web: `HTML` | `CSS` | `JavaScript`
+- 🛢️ Databases: `PostgreSQL` | `MongoDB` | `MySQL`
+- 🛠️ Tools: `Git` | `Linux` | `VMware` | `Android Studio`
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🧠 What I'm Working On
+
+- Building AI agents for **ITSM platforms** like ServiceNow, Jira, and Salesforce  
+- Architecting **dynamic folder mapping** and **QA tools** for aerial and geospatial data  
+- Exploring **LLM integration** with platforms like Claude, Gemini, and Watson X  
+- Designing **Copilot dashboards** and chatbot interfaces for Microsoft Teams & Slack  
+- Monitoring internal infrastructure through self-developed **CLI & API monitoring tools**
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🚀 Projects I’m Proud Of
+
+**🧾 SafeDocu**  
+A decentralized file storage platform using Ethereum + IPFS to safeguard your digital identity.  
+`Solidity` `Python` `Web3` `Blockchain`
+
+**💸 Crypto Care**  
+A decentralized donation platform for transparent philanthropy.  
+`React.js` `Ethereum` `Bitcoin Lightning` `Firebase`
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🏆 Hackathons & Beyond
+
+- 👨‍🏫 Mentored teams at **HackMIT, HackHarvard, LA Hacks, MHacks, Hack The North, HackGT** and more  
+- 🧠 Dubbed “**Galactic Problem Solver**” by **NASA** at the Space Apps Challenge 2023  
+- 🥈 Runner-up at **MIT Bitcoin Hackathon 2024**  
+- 🥇 Mentored the **winning team at Hack The North**  
+- 🚀 Published a patent for **G-Kup: Smart Water Bottle** (Yes, I engineer hydration too 😄)
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 📫 Let’s Connect
+
+I'm always up for collaborations, hackathons, and cool side projects.  
+Drop a line: gauravkhater@gmail.com 
+
+Or just follow along:  
+🌐 [Portfolio](https://gaurav-portfolio-mu.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-khater-882b97203) | 🧪 [GitHub](https://github.com/theBatman07)
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+
