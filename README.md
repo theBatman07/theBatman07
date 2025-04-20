@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Gaurav Khater!
 
-🚀 Engineer | 🚀 Patent Holder |💡 Builder | 🤖 AI Explorer | 🌍 Hackathon Mentor and Winner <br>
+🧠 Engineer | 🚀 Patent Holder |💡 Builder | 🤖 AI Explorer | 🌍 Hackathon Mentor and Winner <br>
 📍 Bangalore, India | 🔗 [Portfolio](https://gaurav-portfolio-mu.vercel.app/) | 🧠 [LinkedIn](https://www.linkedin.com/in/gaurav-khater-882b97203) | 💻 [GitHub](https://github.com/theBatman07)
 
 <br>
