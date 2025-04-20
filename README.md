@@ -34,7 +34,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Development Engineer (SDE) who thrives on building real-world solutions, architecting backend systems, crafting AI agent workflows, and solving gnarly engineering puzzles. Whether it's processing geospatial data, integrating with LLMs, or designing powerful dashboards—I'm in my element when I'm building things that **matter**.
+I'm a Software Development Engineer (SDE) who thrives on building real-world solutions, architecting backend systems, crafting AI agent workflows, and solving gnarly engineering puzzles. Whether it's processing geospatial data, integrating with LLMs, or designing software architecture—I'm in my element when I'm building things that **matter**.
 
 Currently making waves at **Aereo** as an SDE, and previously drove product innovation as a **Founding Engineer Intern** at **Aerolift.AI**.
 
