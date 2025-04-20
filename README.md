@@ -20,6 +20,11 @@
  <a href="https://www.linkedin.com/in/gauravkhater">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
+
+<a href="https://gaurav-portfolio-mu.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1c1d1f?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
+</a>
+
 <!--   <a href="https://www.instagram.com/g.khater7/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
