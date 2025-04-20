@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 # 👋 Hey there, I'm Gaurav Khater!
 
 🧠 Engineer | 🚀 Patent Holder |💡 Builder | 🤖 AI Explorer | 🌍 Hackathon Mentor and Winner <br>
@@ -95,3 +99,6 @@ Or just follow along:
 > “The best way to predict the future is to invent it.” – Alan Kay
 
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
